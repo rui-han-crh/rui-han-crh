@@ -1,5 +1,14 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=rui-han-crh&theme=moltack&show_icons=true&hide_title=true&include_all_commits=true)
+
+I'm a software engineer and a video game developer. My expertise is writing a large of maintainable code - I just really like programming - and making digital products look pretty and personal.
+
+In addition, I am very familiar with video game development, specifically organisational structure of programmable components to retain reusablity and low coupling.
+
+In my free time, I draw anime-style art. Check out my art gallery on Instagram [@nebvis_art](https://instagram.com/nebvis_art?igshid=MzRlODBiNWFlZA==).
+
+Take a look at my pinned section for the available public showcase of my work. Click into each repository to see a preview of the program.
+
+For business opportunities, please contact me using the email in my profile.
 
 <!--
 **rui-han-crh/rui-han-crh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
