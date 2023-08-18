@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer and a video game developer. My expertise is writing a large of maintainable code - I just really like programming - and making digital products look pretty and personal.
+I'm a software engineer and a video game developer. My expertise is organising and planning ahead for scalable, maintainable and readable code, as well as making digital products look pretty and personal.
 
-In addition, I am very familiar with video game development, specifically organisational structure of programmable components to retain reusablity and low coupling. In addition, I love visual design in computer games and graphics!
+In addition, I am very familiar with video game development, specifically organisational structure of programmable components to retain reusablity and low coupling. I also love executing visual design in computer games and graphics!
 
 <p align="center">
   <img src="https://github.com/rui-han-crh/rui-han-crh/assets/15359033/57074f62-89ad-470c-9cea-3fe046747701" alt="image" style="height: 300px;">
