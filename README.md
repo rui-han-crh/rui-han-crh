@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=rui-han-crh&show_icons=true&hide_title=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rui-han-crh&theme=moltack&show_icons=true&hide_title=true&include_all_commits=true)
 
 <!--
 **rui-han-crh/rui-han-crh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
