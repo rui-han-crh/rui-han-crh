@@ -7,7 +7,7 @@ In addition, I am very familiar with video game development, specifically organi
 <p align="center">
   <img src="https://github.com/rui-han-crh/rui-han-crh/assets/15359033/57074f62-89ad-470c-9cea-3fe046747701" alt="image" style="height: 300px;">
 </p>
-<p align="center">
+<p align="center" style="font-size: 10px;">
     <em>Ex Materia</em>
 </p>
 
