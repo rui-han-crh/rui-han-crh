@@ -13,7 +13,7 @@ In addition, I am very familiar with video game development, specifically organi
 
 In my free time, I draw anime-style art. Check out my art gallery on Instagram <a href="https://www.instagram.com/nebvis_art/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" height="15"/> @nebvis_art</a>.
 
-Take a look at my pinned section for the showcase of my publically available work. Click into each repository to see a preview of the program. I am, unfortunately, unable to provide any showcase for work I have done for private companies due to reasons involving property ownership.
+Take a look at my pinned section for the showcase of my publically available work. Click into each repository to see a preview of the program.
 
 For business opportunities, please contact me using the email in my profile.
 
