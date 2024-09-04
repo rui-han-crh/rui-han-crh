@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-I'm a software engineer and a video game developer. My expertise is organising and planning ahead for scalable, maintainable and readable code, as well as making digital products look pretty and personal.
-
-In addition, I am very familiar with video game development, specifically organisational structure of programmable components to retain reusablity and low coupling. I also love executing visual design in computer games and graphics!
+I'm a software engineer and a video game developer. 
 
 <p align="center">
-  <img src="https://github.com/rui-han-crh/rui-han-crh/assets/15359033/57074f62-89ad-470c-9cea-3fe046747701" alt="image" style="height: 300px;">
+  <img src="https://github.com/user-attachments/assets/21dd47d9-c180-426f-8227-edb1253c6c81" alt="image" style="height: 300px;">
 </p>
 <p align="center" style="font-size: 10px;">
-    <em>Ex Materia</em>
+    <em>Iterative Radiosity Rendering</em>
 </p>
 
-In my free time, I draw anime-style art. Check out my art gallery on Instagram <a href="https://www.instagram.com/nebvis_art/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" height="15"/> @nebvis_art</a>.
-
-Take a look at my pinned section for the showcase of my publically available work. Click into each repository to see a preview of the program.
+Take a look at my pinned section for the showcase of my publicly available work. Click into each repository to see a preview of the program.
 
 For business opportunities, please contact me using the email in my profile.
 
