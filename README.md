@@ -11,8 +11,6 @@ I'm a software engineer and a video game developer.
 
 Take a look at my pinned section for the showcase of my publicly available work. Click into each repository to see a preview of the program.
 
-For business opportunities, please contact me using the email in my profile.
-
 <!--
 **rui-han-crh/rui-han-crh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
